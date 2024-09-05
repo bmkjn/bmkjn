@@ -1,5 +1,9 @@
 ### Hi there, I'm Bhumika 👋
 
+## My Project Portfolio
+
+Check out my [Project Portfolio](https://bmkjn.github.io/BhumikaPortfolio.github.io/) to see more of my work.
+
 <!--
 **bmkjn/bmkjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
