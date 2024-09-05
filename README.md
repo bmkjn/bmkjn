@@ -1,7 +1,5 @@
 ### Hi there, I'm Bhumika 👋
 
-## My Project Portfolio
-
 Check out my [Project Portfolio](https://bmkjn.github.io/BhumikaPortfolio.github.io/) to see more of my work.
 
 <!--
